@@ -25,6 +25,7 @@
 <details close="true">
   <summary><b>:bookmark_tabs: &nbsp;Resume</b></summary>
  <br>
+  <img src="Curriculo.png">
  <br>
 </details>
 
